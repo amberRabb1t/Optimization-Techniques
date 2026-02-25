@@ -1,0 +1,2 @@
+# Force .m files to be treated as MATLAB (not Objective-C/Mathematica/etc.)
+*.m linguist-language=MATLAB
